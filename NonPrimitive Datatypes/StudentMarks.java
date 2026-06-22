@@ -1,4 +1,4 @@
-class StudentMark{
+class Studen{
     public static void main(String[] args){
         String StudentName = "Valarmathi";
         String course = "CSE";
