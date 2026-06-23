@@ -1,0 +1,14 @@
+class EventEntry{
+    public static void main(String[] args){
+        int age = 19;
+        boolean hasTicket = true;
+        boolean isVIP = true;
+        if((age >= 18 && hasTicket) || isVIP){
+            System.out.println("Entry Allowed");
+        }
+        else
+        {
+            System.out.println("Entry Not Allowed");
+        }
+    }
+}
