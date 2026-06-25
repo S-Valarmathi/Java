@@ -1,3 +1,4 @@
+package Methods;
 public class Return {
      static int add(){
         return 10 + 5;

@@ -1,3 +1,4 @@
+package Methods;
 public class method2 {
     static void greet(){
         System.out.println("Valarmathi");
