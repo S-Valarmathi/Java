@@ -35,9 +35,9 @@ public class Passport {
         p1.setCountry("India");
         p1.setPassportNumber(1234567890);
 
-        System.out.println("Passport Holder Name: " + p1.passportHolder);
-        System.out.println("Country: " + p1.country);
-        System.out.println("Passport Number: " + p1.passportNumber);
+        System.out.println("Passport Holder Name: " + p1.getPassportHolder());
+        System.out.println("Country: " + p1.getCountry());
+        System.out.println("Passport Number: " + p1.getPassportNumber());
 
     }
 }
