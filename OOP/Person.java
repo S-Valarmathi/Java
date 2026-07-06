@@ -7,19 +7,16 @@ public class Person {
 
     static class Teacher extends Person{
         void teach(){
-        System.out.println("Teacher is teaching");
+            System.out.println("Teacher is teaching");
         }
-        
-    }
 
-    
+        public static void main(String[] args){
+            Teacher t1 = new Teacher();
+            t1.walk();
+            t1.teach();
+        }
 
-    public static void main(String[] args){
-        Person t1 = new Person();
-        Teacher t2 = new Teacher();
 
-        t1.walk();
-        t2.teach();
     }
     
 }
