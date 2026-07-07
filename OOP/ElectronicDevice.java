@@ -1,4 +1,4 @@
-package OOP;
+
 
 public class ElectronicDevice {
     void powerOn(){

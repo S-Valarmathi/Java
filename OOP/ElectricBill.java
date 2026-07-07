@@ -1,4 +1,4 @@
-package OOP;
+
 
 public class ElectricBill {
     String CustomerName;

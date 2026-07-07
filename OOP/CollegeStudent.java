@@ -1,4 +1,4 @@
-package OOP;
+
 
 public class CollegeStudent {
     private String StudentName;
