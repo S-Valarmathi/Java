@@ -1,4 +1,3 @@
-package OOP;
 
 public class ATMCard {
     private String cardHolderName;

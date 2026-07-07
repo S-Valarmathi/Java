@@ -1,4 +1,3 @@
-package OOP;
 
 public class AmazonOrder {
     private int orderId;
